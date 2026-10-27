@@ -1,0 +1,6 @@
+Linux Komutları:
+ls    - Klasördeki dosyaları listeler
+cd    - Klasör değiştirir
+mkdir - Yeni klasör oluşturur
+pwd   - Bulunduğun klasörün yolunu gösterir
+rm    - Dosya siler
