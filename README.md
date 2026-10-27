@@ -1,3 +1,3 @@
 # not-uygulamasi
 Bu proje, Git ve GitHub ile not tutmayı öğrenmek için oluşturulmuş basit bir uygulamadır.
-Geliştirici: Miray Tiryaki (main versiyonu)
+Geliştirici: Miray Tiryaki (main ve feature versiyonları birleştirildi)

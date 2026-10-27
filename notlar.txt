@@ -4,3 +4,10 @@ cd    - Klasör değiştirir
 mkdir - Yeni klasör oluşturur
 pwd   - Bulunduğun klasörün yolunu gösterir
 rm    - Dosya siler
+
+Hafta 2 - Git Komutları:
+git init   - Yeni bir Git reposu başlatır
+git status - Dosyaların durumunu gösterir
+git add    - Dosyaları staging area'ya alır
+git commit - Staging'deki değişiklikleri kaydeder
+git log    - Commit geçmişini gösterir
