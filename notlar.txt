@@ -12,3 +12,4 @@ git add    - Dosyaları staging area'ya alır
 git commit - Staging'deki değişiklikleri kaydeder
 git log    - Commit geçmişini gösterir
 git push   - Commit'leri uzak repoya gönderir
+git pull   - Uzak repodaki değişiklikleri çeker
